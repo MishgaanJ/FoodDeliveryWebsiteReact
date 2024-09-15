@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FoodDeliveryWebsiteReact/static/css/main.7b7aec8f.css",
+    "main.js": "/FoodDeliveryWebsiteReact/static/js/main.99d6e83a.js",
+    "static/js/453.1a478a1d.chunk.js": "/FoodDeliveryWebsiteReact/static/js/453.1a478a1d.chunk.js",
+    "static/media/logo.png": "/FoodDeliveryWebsiteReact/static/media/logo.2b7b3a461800ac1cbe5e.png",
+    "static/media/bootstrap-icons.woff?": "/FoodDeliveryWebsiteReact/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/FoodDeliveryWebsiteReact/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/FoodDeliveryWebsiteReact/index.html",
+    "main.7b7aec8f.css.map": "/FoodDeliveryWebsiteReact/static/css/main.7b7aec8f.css.map",
+    "main.99d6e83a.js.map": "/FoodDeliveryWebsiteReact/static/js/main.99d6e83a.js.map",
+    "453.1a478a1d.chunk.js.map": "/FoodDeliveryWebsiteReact/static/js/453.1a478a1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b7aec8f.css",
+    "static/js/main.99d6e83a.js"
+  ]
+}
